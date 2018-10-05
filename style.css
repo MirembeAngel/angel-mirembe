@@ -1,0 +1,42 @@
+h1{color:orange;
+text-align: center;
+}
+
+
+
+
+body{
+    background-color: oldlace;
+}
+ul {
+    color:whitesmoke;
+
+}
+li{list-style: none;
+    display: inline;
+    margin: 10px;
+   
+}
+   button{
+    background-color: purple;
+    color: white;
+    text-align: center;
+}
+
+table,th{
+    border: none;
+}
+#pan{
+    color: white;
+    background-color: blue;
+}
+
+
+
+
+
+
+
+
+
+
